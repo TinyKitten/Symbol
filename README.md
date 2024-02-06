@@ -1,6 +1,6 @@
 # Symbol
 
-<img src="vector/symbol.svg" alt="TinyKitten Symbol" width="200" height="200" />
+<img src="vector/symbol.svg" alt="TinyKitten Symbol" width="500" height="500" />
 
 ## TinyKitten シンボルの由来
 
