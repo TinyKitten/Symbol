@@ -10,6 +10,8 @@
 
 ## The story of TinyKitten Symbol
 
-This symbol, with its beautiful arches on a blue background, is the freelance engineer TinyKitten symbol, consisting of two overlapping Greek letters Α (alpha).
+This symbol, featuring a beautiful arch on a blue background, represents TinyKitten, a freelance engineer.
 
-Each alpha means "small thing," and the overlapping alphas express the will to create a larger thing from smaller fragments.
+It consists of two overlapping Greek letters Alpha (Α).
+
+Each Alpha symbolizes “something small,” and their overlap expresses the desire to build something greater from these tiny pieces.
